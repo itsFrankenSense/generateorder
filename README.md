@@ -2,8 +2,7 @@
 
 ## This code is to be used in conjunction with https://www.generatord.io/.
 
-This repository contains the code and documentation for generating a collection of digital artifacts in conjunction with Generatords tooling. This code takes away some of the time-consuming aspects of adding inscriptionIDs and then creating metadata for your project.
-
+This code takes away some of the time-consuming aspects of adding inscriptionIDs and then creating metadata for your project.
 Please see the Youtube video for more details - TO BE RELEASED
 
 ## Features
