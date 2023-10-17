@@ -2,7 +2,7 @@
 
 ## This code is to be used in conjunction with https://www.generatord.io/.
 
-This repository contains the code and documentation for generating a collection of digital artifacts. Each unique piece of art is based on a combination of digital assets that are randomly assembled to create a unique digital collectible.
+This repository contains the code and documentation for generating a collection of digital artifacts in conjunction with Generatords tooling. This code takes away some of the time-consuming aspects of adding inscriptionIDs and then creating metadata for your project.
 
 Please see the Youtube video for more details - TO BE RELEASED
 
@@ -17,8 +17,6 @@ Please see the Youtube video for more details - TO BE RELEASED
 ## Folder Structure
 - Make sure the randomcollection.py is in the same folder as your 'Content' folder.
 - The structure should be Main Folder (including code) > Content > Numbered Trait Type Folders > Trait Name files
-
-### THIS IS 99% chatGPT code BEWARE
 
 ## Caveats
 
