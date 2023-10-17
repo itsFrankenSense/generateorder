@@ -14,7 +14,11 @@ Please see the Youtube video for more details - TO BE RELEASED
 - Calculation of trait usage statistics across the NFT collection.
 - Export of NFT metadata and traits information to JSON files.
 
-## THIS IS 99% chatGPT code BEWARE
+## Folder Structure
+- Make sure the randomcollection.py is in the same folder as your 'Content' folder.
+- The structure should be Main Folder (including code) > Content > Numbered Trait Type Folders > Trait Name files
+
+### THIS IS 99% chatGPT code BEWARE
 
 ## Caveats
 
